@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyc_blog=self.webpackChunkyc_blog||[]).push([[333],{178:function(o){o.exports=JSON.parse('{"allTagsPath":"/yc-blog/blog/tags","slug":"/yc-blog/blog/tags/facebook","name":"facebook","count":1,"permalink":"/yc-blog/blog/tags/facebook"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyc_blog=self.webpackChunkyc_blog||[]).push([[146],{1953:function(e){e.exports=JSON.parse('{"permalink":"/yc-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
