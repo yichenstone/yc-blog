@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyc_blog=self.webpackChunkyc_blog||[]).push([[261],{6850:function(s){s.exports=JSON.parse('{"allTagsPath":"/yc-blog/blog/tags","slug":"/yc-blog/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/yc-blog/blog/tags/docusaurus"}')}}]);
